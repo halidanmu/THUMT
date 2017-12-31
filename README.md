@@ -1,6 +1,6 @@
 # THUMT: An Open Source Toolkit for Neural Machine Translation
 ## Contents
-* [Introduction](#implementations)
+* [Introduction](#introduction)
 * [Implementations](#implementations)
 * [License](#license)
 * [Citation](#citation)
